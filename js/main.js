@@ -1,6 +1,6 @@
 // $UNOS — United Nations Oil Supply
 
-const CONTRACT_ADDRESS = 'PLACEHOLDER_UNOS_CA_GOES_HERE';
+const CONTRACT_ADDRESS = 'BXyRk4QJZhErhim2uiKBoSvxvELBzrz1G243TYr1roJ8';
 
 const TOKENOMICS = [
   { label: 'Transaction Reserve Fund', pct: 60, color: '#C9941A' },
